@@ -1,0 +1,4 @@
+data/*.fastq
+data/*.sra
+SRR21630138/
+qc_results/*.zip
